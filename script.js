@@ -1,0 +1,1 @@
+alert("Hello, brave coder! You just ran your first JavaScript.");
